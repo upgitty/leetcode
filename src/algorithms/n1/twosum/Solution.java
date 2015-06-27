@@ -9,7 +9,6 @@ public class Solution {
 		int[] array = {-1,-2,-3,-4,-5};
 		int[] indices = solution.twoSum(array, -8);
 		System.out.println("index1=" + indices[0] + ", index2=" + indices[1]);
-
 	}
 
 	public boolean twoSumExists(int[] arr) {
