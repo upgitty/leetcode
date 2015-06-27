@@ -3,3 +3,5 @@ Solutions will be added to this as and when new problems get added and whenever 
 solve them.
 
 I also aim to document the solutions and with explanations and Worst case complexities.
+
+You are free to fork this and use as per your wish. 
