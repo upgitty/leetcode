@@ -1,7 +1,6 @@
 package algorithms.n228.SummaryRanges;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class Solution {
