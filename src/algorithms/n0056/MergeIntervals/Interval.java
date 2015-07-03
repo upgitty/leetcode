@@ -8,10 +8,10 @@ package algorithms.n0056.MergeIntervals;
  *
  */
 public class Interval {
-	int start;
-	int end;
+	public int start;
+	public int end;
 
-	Interval(int s, int e) {
+	public Interval(int s, int e) {
 		start = s;
 		end = e;
 	}

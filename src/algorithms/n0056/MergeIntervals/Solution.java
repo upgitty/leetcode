@@ -28,6 +28,12 @@ public class Solution {
 		System.out.println(solution.merge(intervals));
 	}
 
+	/**
+	 * Time Complexity : O(nlog n)
+	 * 
+	 * @param intervals
+	 * @return
+	 */
 	public List<Interval> merge(List<Interval> intervals) {
         
 		if(intervals == null || intervals.isEmpty()) {
