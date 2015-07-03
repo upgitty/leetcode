@@ -17,6 +17,12 @@ public class Solution {
 		System.out.println(solution.myAtoi("  -0012a42"));
 	}
 
+	/**
+	 * Time complexity : O(n)
+	 * n is the length of the string
+	 * @param str
+	 * @return
+	 */
     public int myAtoi(String str) {
         
     	//Handle null and empty string
